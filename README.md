@@ -29,5 +29,5 @@ Several quick start options are available:
 
 
 ## License
-Template by <a href="https://getstisla.com/">Stisla<a> [MIT License](LICENSE)
+Template by <a href="https://getstisla.com/">Stisla<a>
 
