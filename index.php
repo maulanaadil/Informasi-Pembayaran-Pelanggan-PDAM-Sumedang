@@ -31,7 +31,7 @@
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
     <script
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvK8BpHedp2JIBRVBmB0mVWJn6wbtL_Fo"
+            src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"
             async
     ></script>
 </head>
