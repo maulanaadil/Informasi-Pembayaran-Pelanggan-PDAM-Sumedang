@@ -28,6 +28,6 @@ Several quick start options are available:
 - Google Places API
 
 
-## License
+## Template
 Template by <a href="https://getstisla.com/">Stisla<a>
 
